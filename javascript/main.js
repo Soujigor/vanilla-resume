@@ -133,3 +133,5 @@ resumeButton.addEventListener("click", () => {
 
   setTimeout(removeScale, 5000);
 });
+
+console.log("Oi");
