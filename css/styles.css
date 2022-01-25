@@ -523,7 +523,7 @@ img {
 }
 
 .skill__progress {
-  width: 60%;
+  width: 100%;
   margin: 0 5px;
   height: 5px;
   background: #fff;
